@@ -109,7 +109,7 @@
      <None Include="Assets\Standard Assets\2D\2D_Art_Assets\Player\p2_spritesheet.txt" />
      <None Include="Assets\2D Assets\Player\p1_spritesheet.txt" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/SEB214/Desktop/Collecium/Collecium/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/SEB214/Documents/GitHub/Game-Design-Classs/Collecium/Collecium/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

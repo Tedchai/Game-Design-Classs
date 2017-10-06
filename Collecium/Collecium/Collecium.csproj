@@ -101,6 +101,7 @@
   <ItemGroup>
     <Compile Include="Assets\2D Assets\_Scripts\CameraScript.cs" />
     <Compile Include="Assets\2D Assets\_Scripts\EnemyAI.cs" />
+    <Compile Include="Assets\2D Assets\_Scripts\ExtensionMethod.cs" />
     <Compile Include="Assets\2D Assets\_Scripts\GoBack.cs" />
     <Compile Include="Assets\2D Assets\_Scripts\GroundCheck.cs" />
     <Compile Include="Assets\2D Assets\_Scripts\LevelChange.cs" />

@@ -51,14 +51,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\2D Assets\_Scripts\BulletController.cs" />
      <Compile Include="Assets\2D Assets\_Scripts\CameraScript.cs" />
      <Compile Include="Assets\2D Assets\_Scripts\EnemyAI.cs" />
      <Compile Include="Assets\2D Assets\_Scripts\ExtensionMethod.cs" />
      <Compile Include="Assets\2D Assets\_Scripts\GoBack.cs" />
      <Compile Include="Assets\2D Assets\_Scripts\GroundCheck.cs" />
-     <Compile Include="Assets\2D Assets\_Scripts\HealthSystem.cs" />
      <Compile Include="Assets\2D Assets\_Scripts\LevelChange.cs" />
      <Compile Include="Assets\2D Assets\_Scripts\PlayerControlScript.cs" />
+     <Compile Include="Assets\2D Assets\_Scripts\Stomp.cs" />
      <Compile Include="Assets\PlayerControlledScript.cs" />
      <None Include="Assets\2D Assets\Tiles\tiles_spritesheet.xml" />
      <None Include="Assets\Standard Assets\2D\2D_Art_Assets\Player\p3_spritesheet.txt" />
@@ -78,7 +79,7 @@
      <None Include="Assets\Standard Assets\2D\2D_Art_Assets\Player\p2_spritesheet.txt" />
      <None Include="Assets\2D Assets\Player\p1_spritesheet.txt" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/SEB214/Desktop/Collecium/Collecium/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/SEB214/Documents/GitHub/Game-Design-Classs/Collecium/Collecium/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
